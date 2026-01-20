@@ -36,6 +36,10 @@ In modern digital hardware, **most on-chip memories are synchronous**, making th
 
 ---
 
+<img width="889" height="762" alt="image" src="https://github.com/user-attachments/assets/8b9dfcec-dbe2-4516-9cc4-28249420cc26" />
+
+---
+
 ## 3. Behavioral Modeling Explained
 
 This RAM is written using **behavioral Verilog**, meaning:
